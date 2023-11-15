@@ -5,14 +5,14 @@
             "amount": 100.0,
             "description": "Tea",
             "date": "",
-            "isCredited": 1
+            "isCredited": true
         },
         {
             "id": 2,
             "amount": 617.0,
             "description": "Dinner",
             "date": "",
-            "isCredited": 0
+            "isCredited": false
         }
     ]
 }
