@@ -2,11 +2,17 @@
     "transactions": [
         {
             "id": 1,
-            "name": "hjhj"
+            "amount": 100.0,
+            "description": "Tea",
+            "date": "",
+            "isCredited": true
         },
         {
             "id": 2,
-            "name": "ook"
+            "amount": 617.0,
+            "description": "Dinner",
+            "date": "",
+            "isCredited": false
         }
     ]
 }
